@@ -17,6 +17,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2015-03** | Deep Feature Selection: Theory and Application to Identify Enhancers and Promoters | *Yifeng Li, Chih-Yu Chen, and Wyeth W. Wasserman* | [19th Annual International Conference, RECOMB 2015, Warsaw, Proceedings](https://dx.doi.org/10.1007/978-3-319-16706-0_20)
 
+- **2015-04** | Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics | *Ehsaneddin Asgari, , Mohammad R.K. Mofrad* | [PloS One Journal 10.11 (2015): e0141287.](http://dx.doi.org/10.1371/journal.pone.0141287, http://arxiv.org/abs/1503.05140)
+
 - **2015-05** | Trans-species learning of cellular signaling systems with bimodal deep belief networks | *Lujia Chen, Chunhui Cai, Vicky Chen and Xinghua Lu* | [Bioinformatics](https://dx.doi.org/10.1093/bioinformatics/btv315)
 
 - **2015-05** | Deep convolutional neural networks for annotating gene expression patterns in the mouse brain | *Tao Zeng, Rongjian Li, Ravi Mukkamala, Jieping Ye and Shuiwang Ji* | [BMC Bioinformatics](https://dx.doi.org/10.1186/s12859-015-0553-9)
